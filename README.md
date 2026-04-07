@@ -26,8 +26,11 @@ A visually immersive hacker-style terminal interface that simulates command-line
 ## 📂 Project Structure
 
 fake-hacker-terminal-ui/
+
 │── index.html
+
 │── style.css
+
 │── script.js
 
 
