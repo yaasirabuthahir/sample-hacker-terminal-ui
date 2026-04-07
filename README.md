@@ -1,4 +1,4 @@
-# 😈 Fake Hacker Terminal UI
+# 😈 Simple Hacker Terminal/Cmd UI
 
 A visually immersive hacker-style terminal interface that simulates command-line interactions. This project recreates a futuristic terminal experience with dynamic command handling and animated outputs.
 
